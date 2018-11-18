@@ -12,3 +12,9 @@
 ```
 compiler.options
 ```
+
+
+### 写一个自己的webpack plugin
+插件功能：
+将最终生成的目标资源 zip打包
+1. 可以
